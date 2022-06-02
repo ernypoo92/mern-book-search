@@ -1,7 +1,7 @@
 # mern-book-search
 
 ## Description
-    MERN Book Search is Google Books API search engine and it helps users to search books they want to read. Users are also able to save books and keep a list of them.
+  MERN Book Search is Google Books API search engine and it helps users to search books they want to read. Users are also able to save books and keep a list of them.
 
 ## Technology
   Javascript,
