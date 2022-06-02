@@ -1,23 +1,23 @@
 # mern-book-search
 
 ## Description
-    MERN Book Search is Google Books API search engine and it helps users to search books they want to read. Users are also able to save books and keep a list of them. 
+    MERN Book Search is Google Books API search engine and it helps users to search books they want to read. Users are also able to save books and keep a list of them.
 
-##Technologies
-  Javascript
-  Node.js
-  MongoDb
-  Github
+## Technology
+  Javascript,
+  Node.js,
+  MongoDb,
+  and Github
   
-##Dependencies
-  CLI
-  Express.js
-  apollo-server-express
-  bycrypt
-  graphql
-  jsonwebtoken
-  Mongoose
-  nodemon
+## Dependancies
+  CLI,
+  Express.js,
+  apollo-server-express,
+  bycrypt,
+  graphql,
+  jsonwebtoken,
+  Mongoose,
+  and nodemon
 
 ## Usage
     MERN Book Search is deployed at: https://bookity-book-search.herokuapp.com/
